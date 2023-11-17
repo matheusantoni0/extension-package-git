@@ -1,0 +1,40 @@
+{
+  "__metadata": {
+    "publisherDisplayName": "AtlanGits"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "description": "The main generic extensions to leave your VSCode flying!",
+  "displayName": "AtlanGits",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "GitHub.vscode-pull-request-github",
+    "GitHub.remotehub",
+    "ivangabriele.vscode-git-add-and-commit",
+    "vivaxy.vscode-conventional-commits",
+    "pomber.git-file-history",
+    "ivanhofer.git-assistant",
+    "GitLab.gitlab-workflow",
+    "logerfo.gitlab-notifications",
+    "arturock.gitstash",
+    "dzhavat.git-cheatsheet",
+    "teledemic.branch-warnings",
+    "maciejdems.add-to-gitignore",
+    "waderyan.gitblame",
+    "vsls-contrib.gistfs",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "vector-of-bool.gitflow",
+    "ardisaurus.gitflow-actions-sidebar"
+
+  ],
+  "icon": "icon.png",
+  "name": "atlantjs-core",
+  "publisher": "Atlantjs",
+  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-core",
+  "version": "1.0.0"
+}
